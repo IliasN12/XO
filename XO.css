@@ -1,0 +1,21 @@
+.X {
+    background-color: rgb(255, 144, 144);
+}
+.O {
+    background-color: rgb(141, 255, 141);
+}
+.table {
+    background-color: white;
+}
+.score {
+    background-color:blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.redscore {
+    color: red;
+}
+.greenscore {
+    color: lime;
+}
